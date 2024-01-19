@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <center><h1><ins>recipes book</ins></h1></center>
+<details>
+    <summary>menu</summary>
+    
+
+<details><summary>breakfast:</summary>
+     <center><h2>puri</h2><h4>price =40/-</h4>
+    <img src="./puri.jpeg"width="200"height="200">
+    <details>
+        <summary>ingredients</summary>
+        <pre>
+              1.wheat flour
+        2.oil
+        3.salt
+         4.water
+        </pre>
+    </details>
+
+<h2>idly</h2> <h4>price =30/-</h4>
+    <img src="./idly.jpg"width="200"height="200">
+ <details>
+    <summary>ingredients</summary>
+    <pre>
+        1.urad dal
+        2.water
+        3.salt
+    </pre>
+ </details>
+
+ <h2>dosa</h2><h5>price =50/-</h5>
+    <img src="./dosa.jpg"width="200"height="200">
+    <details>
+        <summary>ingredients</summary>
+        <pre>
+            1.urad dal
+            2.water
+            3.salt
+            4.idly rice
+        </pre>
+    </details></center></details>
+    
+
+   
+<details><summary>lunch:</summary>
+    
+     <center><h2>corn rice</h2>
+    <pre>price=100/-</pre>
+    <img src="./corns.jpg"width="200"height="200">
+    <details>
+        <summary>ingredients</summary>
+        <pre>
+            1.corns
+            2.rice
+            3.vegetables
+            4.salt
+            5.water
+        </pre>
+    </details>
+
+    <h2>chicken biryani</h2>
+    <pre>price =200/-</pre>
+    <img src="./biryani.webp"width="200"height="200">
+    <details>
+        <summary>ingredients</summary>
+        <pre>
+            1.rice
+            2.water
+            3.salt
+            4.chicken
+        </pre>
+    </details>
+
+    <h2>white rice</h2>
+    <pre>price =150/-</pre>
+    <img src="./rice.jpg"width="200"height="200">
+    <details>
+        <summary>ingredients</summary>
+        <pre>
+            1.rice
+            2.water
+            3.vegetables
+        </pre>
+    </details></center></details>
+
+<details><summary>dinner:</summary>
+     <center>
+        <h2>chapati</h2>
+        <pre>price=50/-</pre>
+        <img src="./chapati.jpeg"width="200"height="200">
+        <details><summary>ingredients</summary>
+            <pre>
+                1.wheat flour
+                2.water
+                3.salt
+            </pre>
+        </details>
+        <h2>roasted chicken</h2>
+        <pre>price=120/-</pre>"
+        <img src="./roasted chicken.webp"width="200"height="200">
+        <details><summary>ingredients</summary>
+        <pre>
+            1.chicken
+            2.salt
+            3.water
+        </pre>
+    </details>
+    </center>
+</details></details>
+</body>
+</html>
